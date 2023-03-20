@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_apple"]=self["webpackChunkvue_apple"]||[]).push([[121],{121:function(e,n,t){t.r(n),t.d(n,{default:function(){return p}});var u=t(252);const o=(0,u._)("div",{class:"container mt-5"}," Comment ",-1),r=[o];function a(e,n,t,o,a,c){return(0,u.wg)(),(0,u.iD)("div",null,r)}var c={name:"Comment",data(){return{}},props:{},components:{},created(){console.log(this.$route)},mounted(){},unmounted(){}},s=t(744);const l=(0,s.Z)(c,[["render",a]]);var p=l}}]);
-//# sourceMappingURL=121.6b94c753.js.map

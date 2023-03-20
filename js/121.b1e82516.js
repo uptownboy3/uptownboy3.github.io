@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_apple"]=self["webpackChunkvue_apple"]||[]).push([[121],{6121:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var u=t(6252),o=(0,u._)("div",{class:"container mt-5"}," Comment ",-1),r=[o];function c(n,e,t,o,c,a){return(0,u.wg)(),(0,u.iD)("div",null,r)}var a={name:"Comment",data:function(){return{}},props:{},components:{},created:function(){console.log(this.$route)},mounted:function(){},unmounted:function(){}},i=t(3744);const s=(0,i.Z)(a,[["render",c]]);var f=s}}]);
+//# sourceMappingURL=121.b1e82516.js.map
